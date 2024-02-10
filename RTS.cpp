@@ -24,9 +24,6 @@ sf::Mouse Mouse1;
 	
 std::vector<Unit> UnitArray;
 
-struct hello{
-};
-
 template <typename T>
 T DegToRad(T degrees)
 {
